@@ -1,0 +1,43 @@
+# Dependency directories
+node_modules/
+dist/
+
+# TypeScript v1 declaration files
+typings/
+
+# Optional eslint cache
+.eslintcache
+
+# Optional npm cache directory
+.npm
+
+# Output of 'npm pack'
+*.tgz
+
+# next.js build output
+.next
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime Data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Compile binary addons
+build/Release
+
+# Windows
+Thumbs.db
+
+# IDE
+.idea/
+
+# macOS
+.DS_Store
